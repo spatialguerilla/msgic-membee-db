@@ -149,5 +149,8 @@ cython_debug/
 *.code-workspace
 
 # Google credentials
-*credentials.json
-*token.json
+app/credentials.json
+app/token.json
+
+# Test Data (CSV)
+app/test_data.csv
